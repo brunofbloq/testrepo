@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TX2SA-12V
+D Low Signal Relays - PCB 2A 12VDC DPDT NON-LATCHING SMD
+K
+F http://www.mouser.com/datasheet/2/315/mech_eng_tx-1075670.pdf
+$ENDCMP
+#
+#End Doc Library

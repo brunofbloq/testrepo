@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TXS0102QDCURQ1
+D Automotive 2-Bit Bidirectional Voltage-Level Translator for Open-Drain and Push-Pull Application
+K
+F http://www.ti.com/lit/gpn/txs0102-q1
+$ENDCMP
+#
+#End Doc Library

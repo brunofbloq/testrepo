@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PI4ULS3V204LEX
+D Voltage Level Translator Bidirectional 4 Circuit 1 Channel 2Mbps, 24Mbps 14-TSSOP
+K
+F https://www.diodes.com/assets/Datasheets/PI4ULS3V204.pdf
+$ENDCMP
+#
+#End Doc Library

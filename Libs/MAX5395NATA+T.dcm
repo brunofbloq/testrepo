@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX5395NATA+T
+D MAXIM INTEGRATED PRODUCTS - MAX5395NATA+T - Volatile Digital Potentiometer, 100 kohm, Single, I2C, Linear, +/- 25%, 1.7 V
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX5395.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP7370-33SA-7
+D Linear Voltage Regulator IC Positive Fixed 1 Output 300mA SOT-23-3
+K
+F https://www.diodes.com/assets/Datasheets/AP7370.pdf
+$ENDCMP
+#
+#End Doc Library

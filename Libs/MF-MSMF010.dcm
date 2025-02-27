@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MF-MSMF010
+D Polymeric PTC Resettable Fuse 60V 100 mA Ih Surface Mount 1812 (4532 Metric), Concave
+K
+F https://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf
+$ENDCMP
+#
+#End Doc Library

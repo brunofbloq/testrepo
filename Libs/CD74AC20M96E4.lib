@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model CD74AC20M96E4
+#/11444678/192948/2.50/14/3/Integrated Circuit
+DEF CD74AC20M96E4 IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "CD74AC20M96E4" 950 200 50 H V L CNN
+F2 "SOIC127P600X175-14N" 950 100 50 H I L CNN
+F3 "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd74ac20" 950 0 50 H I L CNN
+F4 "Logic Gates Dual 4-Input NAND Gate" 950 -100 50 H I L CNN "Description"
+F5 "1.75" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "CD74AC20M96E4" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-CD74AC20M96E4" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD74AC20M96E4?qs=YxwvVplHM%2FmOCFnj8eMwbw%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1A 1 0 0 200 R 50 50 0 0 P
+X 1B 2 0 -100 200 R 50 50 0 0 P
+X NC_1 3 0 -200 200 R 50 50 0 0 P
+X 1C 4 0 -300 200 R 50 50 0 0 P
+X 1D 5 0 -400 200 R 50 50 0 0 P
+X 1Y 6 0 -500 200 R 50 50 0 0 P
+X GND 7 0 -600 200 R 50 50 0 0 P
+X VCC 14 1100 0 200 L 50 50 0 0 P
+X 2D 13 1100 -100 200 L 50 50 0 0 P
+X 2C 12 1100 -200 200 L 50 50 0 0 P
+X NC_2 11 1100 -300 200 L 50 50 0 0 P
+X 2B 10 1100 -400 200 L 50 50 0 0 P
+X 2A 9 1100 -500 200 L 50 50 0 0 P
+X 2Y 8 1100 -600 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

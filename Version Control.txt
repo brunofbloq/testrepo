@@ -1,0 +1,26 @@
+V1.1
+- Swap J11 (touch int) pins
+- Connect extra GPIOs from Mallow to X16 (scanner_EN + PRT_CTRL + SENS_EN+Prog_EN)
+- Added D7
+- Removed U6 alternative voltage regulator
+- Removed Q17/Q19 alternative circuit
+- Changed C38 valur to 47uF to allow more start-up time (without pull-up voltage at the wake-up PIN)
+- added R74 to "NO" of RL1 to allow to discharge C38 after entering protection status
+- Removed R13
+- added an alternative touch_INT buffer using only transistors to avoid using a diode on the output side of the buffer (buffer U16 is Always HIGH or LOW on the output, but transistors allow open collector).
+
+V1.2
+- ajust decoupling capacitors position close to fixing points
+- correction of U14 connections, was not correctly wired
+- adjust J9 fixing holes (from 3,65 to 3,2mm)
+- R60 adjusted to 105k (hardware version control)
+
+V1.3
+- added new J8 conector to allow controlled 5V PSU to extrenal USB câmera
+- R60 adjusted to 110k (hardware version control)
+- Removed R4 (alternative to UART1_CTRL via UART1_CTS)
+- Added JP2 to allow SOM boot
+- replaced U2 with GM7333 (higher input voltage)
+- removed C26 to allow more space to fixing screw
+- removed extra caps C29+C48+C32+C39
+- added new R4 between Touch_INT signal and the Gpio_Exp input (Touch_int is 3,3V)

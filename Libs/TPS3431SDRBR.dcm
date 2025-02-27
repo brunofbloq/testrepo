@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS3431SDRBR
+D Standard Programmable Watchdog Timer With Enable
+K
+F http://www.ti.com/lit/gpn/tps3431
+$ENDCMP
+#
+#End Doc Library

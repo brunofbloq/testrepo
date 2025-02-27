@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LTC2959
+#/16239955/192948/2.50/11/3/Integrated Circuit
+DEF LTC2959 IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "LTC2959" 1050 200 50 H V L CNN
+F2 "SON50P200X300X80-11N-D" 1050 100 50 H I L CNN
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2959.pdf" 1050 0 50 H I L CNN
+F4 "n Programmable Deadband Prevents Charge Drift" 1050 -100 50 H I L CNN "Description"
+F5 "0.8" 1050 -200 50 H I L CNN "Height"
+F6 "Analog Devices" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LTC2959" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "N/A" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC2959?qs=Imq1NPwxi74VoHpy7vTxNQ%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VDD 1 0 0 200 R 50 50 0 0 P
+X SENSEP 2 0 -100 200 R 50 50 0 0 P
+X CFP 3 0 -200 200 R 50 50 0 0 P
+X CFN 4 0 -300 200 R 50 50 0 0 P
+X SENSEN 5 0 -400 200 R 50 50 0 0 P
+X EP 11 600 -900 200 U 50 50 0 0 P
+X GND 10 1200 0 200 L 50 50 0 0 P
+X VREG 9 1200 -100 200 L 50 50 0 0 P
+X GPIO 8 1200 -200 200 L 50 50 0 0 P
+X SDA 7 1200 -300 200 L 50 50 0 0 P
+X SCL 6 1200 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX16058ATA22+
+D 125NA SUPERVISORY CIRCUITS WITH
+K
+F https://pdfserv.maximintegrated.com/en/ds/MAX16056-MAX16059.pdf
+$ENDCMP
+#
+#End Doc Library

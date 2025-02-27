@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS1371U+
+D Maxim DS1371U+ Real Time Clock  Calendar, NV RAM, 3B RAM 8-Pin uSOP
+K
+F https://componentsearchengine.com/Datasheets/2/DS1371U+.pdf
+$ENDCMP
+#
+#End Doc Library

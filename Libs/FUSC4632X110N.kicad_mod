@@ -1,0 +1,335 @@
+(footprint "FUSC4632X110N"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "1812 (4532 Metric)_2023-1")
+	(tags "Fuse")
+	(property "Reference" "F1"
+		(at 0 2.9 180)
+		(layer "F.SilkS")
+		(uuid "2d15421d-487b-4802-a945-7bb2a1de5550")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MF-MSMF010"
+		(at -0.15 -2.6 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "37ce1a48-c0b1-493c-9cd5-e32c886abd96")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "libs:FUSC4632X110N"
+		(at -0.05 -5.2 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a2987b38-0f6d-4ef6-86d7-7247921fef5a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd74b046-3876-4137-a14c-7e2b0cbd6921")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7f6ac301-2cdb-44f3-b82e-aed2197d4809")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Reference_1" "F"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "78e8d38d-2a6b-4e40-b82b-f6d527792699")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value_1" "MF-MSMF010"
+		(at -0.05 -5.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b8ab2aac-6e93-4af8-958b-250f3294bdaa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint_1" "FUSC4632X110N"
+		(at -0.05 -5.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0d47d32-aa76-49b6-ab14-3fe4b0d85dd5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet_1" "https://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf"
+		(at -0.05 -5.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c1ba7d2b-4af4-4e5a-bce4-4fa8fe0c01d8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1.1"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "72c0bf5b-2313-4e2f-8157-72811770e86f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Bourns"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "db46e41f-1edb-483f-9f41-8efd34faca3e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "MF-MSMF010"
+		(at -0.05 -5.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83fdef4a-fcc3-4915-b122-f4754f840079")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b9cce6e8-0459-4c64-b7cd-6465346bcf0c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "310f5028-81d6-41af-8057-79ce6a536fd6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "285741cf-49ee-405d-b4df-6b592c30327d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "be1ebc7f-95d1-4e00-a9b4-9e8e73670e71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0 -1.52)
+		(end 0 1.52)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ad9ee5b4-f7c8-4932-8ae3-4951f4e7260c")
+	)
+	(fp_line
+		(start -2.975 -1.965)
+		(end 2.975 -1.965)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2fbc8e0b-a464-45d0-a70a-b7b86d2c225e")
+	)
+	(fp_line
+		(start -2.975 1.965)
+		(end -2.975 -1.965)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "27c7521a-7d47-4681-aef3-789e4e6bc195")
+	)
+	(fp_line
+		(start 2.975 -1.965)
+		(end 2.975 1.965)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9d50d22a-2751-4f0b-920c-2d944d552523")
+	)
+	(fp_line
+		(start 2.975 1.965)
+		(end -2.975 1.965)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f126746b-946b-488e-ac33-b8b8d1593348")
+	)
+	(fp_line
+		(start -2.275 -1.62)
+		(end 2.275 -1.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b9596bca-819b-4882-8745-406a0ed84515")
+	)
+	(fp_line
+		(start -2.275 1.62)
+		(end -2.275 -1.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a7e97dfa-0b36-4a08-b11c-29ec77ba3307")
+	)
+	(fp_line
+		(start 2.275 -1.62)
+		(end 2.275 1.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "39a06fb0-94c8-4e6b-899d-7f6c40773ff6")
+	)
+	(fp_line
+		(start 2.275 1.62)
+		(end -2.275 1.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4120ef51-fd3d-429c-8c54-24f2d65f3570")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.05 -5.2 180)
+		(layer "F.Fab")
+		(uuid "e61c0123-ae52-473c-bf93-359dbd10595f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.15 0)
+		(size 1.5 3.43)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f2e1a397-45fc-4323-ba87-2da037aadd4f")
+	)
+	(pad "2" smd rect
+		(at 2.15 0)
+		(size 1.5 3.43)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "55b750b5-a87a-4fed-8f94-cabdb7ce2552")
+	)
+	(model "MF-MSMF010.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

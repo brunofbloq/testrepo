@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2959
+D n Programmable Deadband Prevents Charge Drift
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2959.pdf
+$ENDCMP
+#
+#End Doc Library

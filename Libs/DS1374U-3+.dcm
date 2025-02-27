@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS1374U-3+
+D MAXIM INTEGRATED PRODUCTS - DS1374U-3+ - BINARY COUNTER, 32BIT, USOP-10
+K
+F http://www.mouser.com/ds/2/256/DS1374-DS1374U-95046.pdf
+$ENDCMP
+#
+#End Doc Library

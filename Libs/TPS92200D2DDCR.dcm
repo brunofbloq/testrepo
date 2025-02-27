@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS92200D2DDCR
+D LED Lighting Drivers 4-V to 30-V input voltage, 1.5-A output current, synchronous buck LED driver with dimming options
+K
+F https://www.ti.com/lit/gpn/tps92200?HQS=ti-null-null-sf-df-pf-sep-wwe&DCM=yes
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NTZD3154NT5G
+D MOSFET 20V 540mA Dual N-Channel w/ESD
+K
+F https://www.arrow.com/en/products/ntzd3154nt5g/on-semiconductor
+$ENDCMP
+#
+#End Doc Library
